@@ -1,6 +1,7 @@
 #  What is otzar-tabs?
 Simplified, customizable tabs otzar-tabs is a tab component which simplifies the usage of tabs and their customization
 
+[Video](https://prod.otzar.tech/otzar_tabs/demo.avi)
 
 # This is how they can be used:
 
