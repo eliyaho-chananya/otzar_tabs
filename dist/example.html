@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+        <script src="otzar_tabs.min.js"></script>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+
+    </head>
+    <body style="margin:0px">
+        
+        <div id="app">
+        
+        <otzartabs id="tabs" ref="myTabs">
+            <tabitem>
+            <i class="fab fa-accessible-icon"></i>
+            <span>ספריית מפרשים</span>
+            
+           
+            
+            </tabitem>
+            <tabitem is_active=1>דוגמא 2</tabitem>
+            <tabitem>דוגמא 3</tabitem>
+        </otzartabs>
+        </div>
+        
+ 
+        <script>
+        var app = new Vue({ 
+            el: '#app',
+            data: {
+                message: 'Hello Vue!'
+            },
+            components:{
+                pageBook:'Otzartabs',
+                
+            }
+        });
+        
+        
+        
+        </script>
+    </body>
+</html>
