@@ -1,8 +1,11 @@
 #  What is otzar-tabs?
 Simplified, customizable tabs otzar-tabs is a tab component which simplifies the usage of tabs and their customization
 
-[Video](https://prod.otzar.tech/otzar_tabs/demo.avi)
+[Video Part 1](https://prod.otzar.tech/otzar_tabs/part_1.wmv)
+[Video Part 2](https://prod.otzar.tech/otzar_tabs/part_2.wmv)
+## Demo
 
+you can see the demo [here](https://cdn.otzar.tech/otzar_tabs/example.html)
 # How to use:
 
 ```html
@@ -26,9 +29,7 @@ or use the cdn
 ```
 
 **You need to add this component to your app. either by vue.use or other methods**
-## Demo
 
-you can see the demo [here](https://cdn.otzar.tech/otzar_tabs/example.html)
 ## Events
 
 `tab_click` is a [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent) JS. which get triggred when the tab is clicked. the otzartabs is the DOM element who triggred the event.
