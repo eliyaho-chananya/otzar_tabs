@@ -28,7 +28,7 @@ or use the cdn
 **You need to add this component to your app. either by vue.use or other methods**
 ## Demo
 
-you can see the demo here: [https://cdn.otzar.tech/otzar_tabs/example.html](https://cdn.otzar.tech/example.html)
+you can see the demo [here](https://cdn.otzar.tech/otzar_tabs/example.html)
 ## Events
 
 `tab_click` is a [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/API/CustomEvent/CustomEvent) JS. which get triggred when the tab is clicked. the otzartabs is the DOM element who triggred the event.
