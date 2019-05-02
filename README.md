@@ -87,6 +87,6 @@ for example to change the buttons colors (and the borders colors too)  you can
 ```
 **i use `fill` and `stroke` props because the tbs drawing by svg**
 
-## Pictures
+## Picture
 ![Example](https://cdn.otzar.tech/otzar_tabs/demo_rtl.png)
 
