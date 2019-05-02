@@ -73,7 +73,7 @@ You have the following three classess
 | Name|      Description|  
 |----------|:-------------:|
 | tab_header |  apply to all of the tab_items
-| tab_item|    tab_item class  
+| tab_item |    tab_item class  
 | tab_content | only the content your add to tab_item
 
 for example to change the buttons colors (and the borders colors too)  you can 
