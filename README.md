@@ -46,6 +46,7 @@ $(otzartabs_obj).on("tab_click", function() {
 ````
 
 ## Methods
+
 | Name|      Description|  
 |----------|:-------------:|
 | addTab(tabText:string,tabId:string) |  Add new tab_item 
@@ -70,6 +71,7 @@ myapp.$refs.myTabs.setDirection(false)
 
 You can apply your own css to each of the parts in this componenet
 You have the following three classess
+
 | Name|      Description|  
 |----------|:-------------:|
 | tab_header |  apply to all of the tab_items
